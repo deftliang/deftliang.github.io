@@ -6,7 +6,7 @@ email: deftmail@163.com
 description: "To be both a speaker of words and a doer of deeds."
 keyword: "Deft Blog, Deft的博客, Deft, web, JavaScript, TS, 个人网站, 互联网, Web, 前端"
 url: "http://louliang11.gitee.io"              # your host, for absolute URL
-baseurl: "/blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
