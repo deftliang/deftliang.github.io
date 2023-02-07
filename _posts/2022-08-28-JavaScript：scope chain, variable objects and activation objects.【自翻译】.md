@@ -72,7 +72,7 @@ foo();
 
 下面的图片解释了这个过程：
 
-![1_9t59w1tOW-iOTJFheu6Fgg (1).png](https://deftliang.github.io/img/1_9t59w1tOW-iOTJFheu6Fgg.png)
+![1_9t59w1tOW-iOTJFheu6Fgg (1).png](https://deftliang.github.io/img/in-post/1_9t59w1tOW-iOTJFheu6Fgg.png)
 
 
 虽然开发人员不直接使用这些概念, 但深入细致地理解它们是很重要的。
