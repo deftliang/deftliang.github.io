@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JavaScript：scope chain, variable objects and activation objects.【自翻译】
+title: JavaScript：scope chain, variable objects and activation objects.【译】
 subtitle:
 date: 2022-08-28
 author: deft
