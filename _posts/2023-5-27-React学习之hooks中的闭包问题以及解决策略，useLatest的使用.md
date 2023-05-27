@@ -14,7 +14,7 @@ tags:
 
 案例如下：
 
-```javascript
+```jsx
 import { useState } from 'react'
 
 export default function () {
@@ -39,7 +39,7 @@ export default function () {
 
 ## 使用 useLatest 解决此问题
 
-```javascript
+```jsx
 import React, { useState, useEffect } from 'react'
 import { useLatest } from 'ahooks'
 
@@ -65,7 +65,7 @@ export default () => {
 
 ahooks 中 useLatest 源码
 
-```javascript
+```jsx
 import { useRef } from 'react'
 
 function useLatest<T>(value: T) {
@@ -78,6 +78,6 @@ function useLatest<T>(value: T) {
 export default useLatest
 ```
 
-资料参考：
-https://blog.csdn.net/hhhhhhaaaaaha/article/details/127070064
-https://blog.logrocket.com/what-you-need-know-react-useevent-hook-rfc/
+* 资料参考：
+  * [https://blog.csdn.net/hhhhhhaaaaaha/article/details/127070064]()
+  * [https://blog.logrocket.com/what-you-need-know-react-useevent-hook-rfc/]()
