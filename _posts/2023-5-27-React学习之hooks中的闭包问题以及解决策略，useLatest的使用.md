@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023-5-27-React学习-hooks中的闭包问题以及解决策略，useLatest的使用
+title: 2023-5-27-React学习之hooks中的闭包问题以及解决策略，useLatest的使用
 subtitle:
 date: 2023-05-27
 author: deft
