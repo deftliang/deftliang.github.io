@@ -29,6 +29,7 @@ export default defineAstroPaperConfig({
   },
   socials: [
     { name: "github",   url: "https://github.com/deftliang" },
+    { name: "x",        url: "https://x.com/deftliang" },
   ],
   shareLinks: [],
 });
